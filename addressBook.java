@@ -43,7 +43,7 @@ public class AddressBook {
 				switch (choice) {
 
 				case 1:
-					System.out.println("Add Record");
+					System.out.println("Add Recordd");
 					System.out.println("Enter number of Details to be entered");
 					val = scan.nextInt();
 					for(i=0;i<val;i++)
