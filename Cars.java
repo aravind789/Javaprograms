@@ -17,7 +17,7 @@ public class Cars {
         public static void main(String args[]) {
                 Cars obj1=new Cars("Maruti","Alto","Red");
                 obj1.display();
-                Cars obj2=new Cars("Honda","Accord","Grey");
+                Cars obj2=new Cars("Honda","Accord","Black");
                 obj2.display();
 
         }
